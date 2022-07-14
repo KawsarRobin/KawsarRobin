@@ -6,7 +6,7 @@
 - 🤔 I’m trying - To help people learn web development.
 - ⚡ Fun fact: I love to make complex origami and I can speak 4 languages. 
 
-##💻 Technologies that I know
+💻 Technologies that I know
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/KawsarRobin)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/kawsar-robin/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/KawsarRobinn)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/Kawsar_Robinn)  
